@@ -47,7 +47,7 @@ QUEEN HENTAI Multi Device 18+ Adult Video Downloader Whatsapp Bot.
 
 ## ```HEROKU DEPLOYMENT```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dinuwah/QUEEN-HENTAI)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IVMRX/QUEEN-HENTAI)
 ---------
 
 ## ```HEROKU TUTORIAL```
